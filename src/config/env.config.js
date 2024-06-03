@@ -14,3 +14,4 @@ export const HOST = process.env.HOST;
 export const DB_URL = process.env.DB_URL;
 export const ACCESS_JWT_SECRET = process.env.ACCESS_JWT_SECRET;
 export const REFRESH_JWT_SECRET = process.env.REFRESH_JWT_SECRET;
+export const API_KEY = process.env.API_KEY;
